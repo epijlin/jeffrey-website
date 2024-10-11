@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "work",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "life.html",
+    "href": "life.html",
+    "title": "life",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jeffrey Lin",
+    "section": "",
+    "text": "About pages"
+  },
+  {
+    "objectID": "about.html#himy-name-is-jeffrey-lin-from-taipei-taiwan.",
+    "href": "about.html#himy-name-is-jeffrey-lin-from-taipei-taiwan.",
+    "title": "Jeffrey Lin",
+    "section": "",
+    "text": "About pages"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeffrey’s Homepage",
+    "section": "",
+    "text": "Making a Website using Quarto\n\n\n\nPhoto Gallery\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "Projects.html#quarto",
+    "href": "Projects.html#quarto",
+    "title": "Projects",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  }
+]

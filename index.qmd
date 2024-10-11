@@ -1,0 +1,17 @@
+---
+title: "Jeffrey's Homepage"
+about:
+  template: marquee
+  image: index1.JPG
+  image-width: 50em
+---
+
+<!-- 95% of this will be handled by Quarto for you -->
+
+<!-- <embed src="website-handout.pdf" type="application/pdf" width="100%" height="600px"> -->
+
+### Making a Website using Quarto
+
+<embed src="website-handout.pdf" type="application/pdf" class="styled-pdf">
+
+### Photo Gallery
