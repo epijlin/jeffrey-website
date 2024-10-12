@@ -1,5 +1,6 @@
 ---
 title: "Jeffrey's Homepage"
+date: last-modified
 about:
   template: marquee
   image: index1.JPG
