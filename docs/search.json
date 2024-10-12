@@ -11,21 +11,21 @@
     "href": "index.html",
     "title": "Jeffrey’s Homepage",
     "section": "",
-    "text": "Making a Website using Quarto\n\n\n\nPhoto Gallery\n\n\n\n Back to top"
+    "text": "::: {.styled-pdf}\n\n:::"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Jeffrey Lin",
     "section": "",
-    "text": "About pages"
+    "text": ":::{#hero-heading}\n\n\n\n\n\n\nQuarto: About pages\n:::"
   },
   {
     "objectID": "about.html#himy-name-is-jeffrey-lin-from-taipei-taiwan.",
     "href": "about.html#himy-name-is-jeffrey-lin-from-taipei-taiwan.",
     "title": "Jeffrey Lin",
     "section": "",
-    "text": "About pages"
+    "text": ":::{#hero-heading}\n\n\n\n\n\n\nQuarto: About pages\n:::"
   },
   {
     "objectID": "life.html",
@@ -33,5 +33,26 @@
     "title": "life",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "index.html#photo-gallery",
+    "href": "index.html#photo-gallery",
+    "title": "Jeffrey’s Homepage",
+    "section": "Photo Gallery",
+    "text": "Photo Gallery\n\n\n\n\nMy Beloved Country - Taiwan\n\n\n\n\n\n2024 Taiwan New Year’s Flag-Raising Ceremony\n\n\n\n\n\n2024 Taiwan 113th National Day’s Banquet Atlanta\n\n\n\n\n\nOceans Ballroom National Day’s Banquet Atlanta\n\n\n\n\n\nBanquet\n\n\n\n\n\nViva Villa\n\n\n\n\n\nViva Villa\n\n\n\n\n\nViva Villa\n\n\n\n\nContact Me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nMy Beloved Country - Taiwan\n2024 Taiwan New Year’s Flag-Raising Ceremony\n2024 Taiwan 113th National Day’s Banquet Atlanta\nOceans Ballroom National Day’s Banquet Atlanta\nBanquet\nViva Villa\nViva Villa\nViva Villa"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Jeffrey’s Homepage",
+    "section": "Contact me",
+    "text": "Contact me\n{{&lt; twitter-x schochastics &gt;}}\n\n\n\nMy Beloved Country - Taiwan\n2024 Taiwan New Year’s Flag-Raising Ceremony\n2024 Taiwan 113th National Day’s Banquet Atlanta\nOceans Ballroom National Day’s Banquet Atlanta\nBanquet\nViva Villa\nViva Villa\nViva Villa"
+  },
+  {
+    "objectID": "index.html#making-a-website-using-quarto",
+    "href": "index.html#making-a-website-using-quarto",
+    "title": "Jeffrey’s Homepage",
+    "section": "",
+    "text": "::: {.styled-pdf}\n\n:::"
   }
 ]

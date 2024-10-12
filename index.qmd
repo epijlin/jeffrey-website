@@ -3,15 +3,65 @@ title: "Jeffrey's Homepage"
 about:
   template: marquee
   image: index1.JPG
-  image-width: 50em
+  links: 
+    - icon: twitter-x
+      href: https://x.com/J_LinEPI
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jeffreylin24/
+lightbox: true
 ---
 
 <!-- 95% of this will be handled by Quarto for you -->
 
 <!-- <embed src="website-handout.pdf" type="application/pdf" width="100%" height="600px"> -->
 
-### Making a Website using Quarto
+## Making a Website using Quarto
 
-<embed src="website-handout.pdf" type="application/pdf" class="styled-pdf">
 
-### Photo Gallery
+<embed src="website-handout.pdf" type="application/pdf" width="100%" height="600px">
+
+
+## Photo Gallery
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![My Beloved Country - Taiwan](/images/TWMap.jpg){group="my-gallery"}
+
+![2024 Taiwan New Year's Flag-Raising Ceremony](/images/IMG_0229.JPG){group="my-gallery"}
+
+![2024 Taiwan 113th National Day's Banquet Atlanta](/images/IMG_2613.jpg){group="my-gallery"}
+
+![Oceans Ballroom National Day's Banquet Atlanta](/images/IMG_2636.jpg){group="my-gallery"}
+
+![Banquet](/images/banquet.jpg){group="my-gallery"}
+
+![Viva Villa](/images/IMG_2485.jpg){group="my-gallery"}
+
+![Viva Villa](/images/IMG_2522.jpg){group="my-gallery"}
+
+![Viva Villa](/images/IMG_2560.jpg){group="my-gallery"}
+
+:::
+
+
+#### Contact Me
+<!-- Social Media Icons using css -->
+<!-- <div style="text-align: left;"> -->
+<!--   <a href="https://x.com/J_LinEPI" target="_blank" style="text-decoration: none;"> -->
+<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" style="width:30px; height:30px; margin-right: 10px;"> -->
+<!--   </a> -->
+<!--   <a href="https://www.linkedin.com/in/jeffreylin24/" target="_blank" style="text-decoration: none;"> -->
+<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; margin-right: 10px;"> -->
+<!--   </a> -->
+<!--   <a href=" https://github.com/epijlin/jeffrey-website/" target="_blank" style="text-decoration: none;"> -->
+<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="LinkedIn" style="width:30px; height:30px; margin-right: 10px;"> -->
+<!--   </a> -->
+<!-- </div> -->
+
+<!-- Social Media Icons using Quarto with some HTML elements for styling -->
+:::{.text-left}
+[![](https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg){width=30 height=30 marin-right=10}](https://x.com/J_LinEPI){target="_blank" style="text-decoration: none;"}
+[![](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){width=30 height=30 margin-right=10}](https://www.linkedin.com/in/jeffreylin24/){target="_blank" style="text-decoration: none;"} 
+[![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){width=30 height=30 margin-right=10}](https://github.com/epijlin/jeffrey-website/){target="_blank" style="text-decoration: none;"} 
+:::
+
