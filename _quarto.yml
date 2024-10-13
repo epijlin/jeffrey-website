@@ -30,7 +30,7 @@ website:
       - text: "Life"
         href: life.qmd
   page-footer: 
-    left: "&copy; Copyright 2024, Jeffrey Lin<br>Coming Soon"
+    left: "&copy; Copyright 2024, Jeffrey Lin<br>"
     right: "Built with [Quarto](<link file>)"
     background: light
   search: 
