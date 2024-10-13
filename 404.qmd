@@ -2,7 +2,7 @@
 title: Error
 ---
 
-<!-- ![](/404_puppy.webp) -->
+![](/images/404_puppy.webp)
 
 # Oops! The page you are looking for does not exist.
 

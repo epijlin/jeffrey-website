@@ -1,5 +1,3 @@
 ---
-title: "life"
-format: html
-editor: visual
+
 ---
