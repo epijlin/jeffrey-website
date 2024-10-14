@@ -1,11 +1,12 @@
 ---
+from: markdown+emoji
 about:
   id: hero-heading
   template: jolla
   image: Career Headshots.jpg
 ---
 
-## Hi...**Jeffrey** here from Taipei, Taiwan😊
+## Hi...**Jeffrey** here from Taipei, Taiwan:taiwan:
 
 ::: {#hero-heading}
 Jeffrey recently graduated with his Master of Public Health degree in Infectious Disease Epidemiology from Rollins School of Public Health at Emory University. Prior to entering my Master program, Jeffrey had an honor to serve as an emergency medical technician for six months for conscription in Taiwan. Jeffrey gained significant training in emergency responses and communications.
@@ -16,3 +17,24 @@ Jeffrey further honed his epidemiologic skills through a research project that e
 :::
 
 <embed src="Lin_JeffreyC_Resume.pdf" type="application/pdf" class="styled-pdf">
+
+
+## Photo Gallery
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+![My Beloved Country - Taiwan](/images/TWMap.jpg){group="my-gallery"}
+
+![2024 Taiwan New Year's Flag-Raising Ceremony](/images/IMG_0229.JPG){group="my-gallery"}
+
+![2024 Taiwan 113th National Day's Banquet Atlanta](/images/IMG_2613.jpg){group="my-gallery"}
+
+![Oceans Ballroom National Day's Banquet Atlanta](/images/IMG_2636.jpg){group="my-gallery"}
+
+![Banquet](/images/banquet.jpg){group="my-gallery"}
+
+![2024 Viva Villa Fundraising Event](/images/IMG_2485.jpg){group="my-gallery"}
+
+![2024 Viva Villa Fundraising Event](/images/IMG_2522.jpg){group="my-gallery"}
+
+![2024 Viva Villa Fundraising Event](/images/IMG_2560.jpg){group="my-gallery"}
+:::

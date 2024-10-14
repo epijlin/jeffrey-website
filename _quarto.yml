@@ -7,7 +7,7 @@ website:
   reader-mode: false
   cookie-consent: false
   open-graph: true
-  title: "Jeffrey Lin, MPH"
+  title: "Jeffrey Lin"
   navbar:
     tools:
       - icon: linkedin

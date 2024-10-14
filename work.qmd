@@ -1,5 +1,4 @@
 ---
-title: "work"
-format: html
-editor: visual
+title: "Work"
+from: markdown+emoji
 ---

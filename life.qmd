@@ -7,10 +7,8 @@ from: markdown+emoji
 
 #### **Taiwan**, a place where I consider my home. It's a small, yet beautiful island country with a population of approximately 23 million people, neighboring to Japan, the Philippines, South Korea, and the People Republic of China (PRC).
 
-#### I grew up in Taipei which is the capital of Taiwan. The city is known for its night market and cuisine, in addition to being the heart of everything. The common languages are predominantly spoken in Mandarin and English, with a slight mixture of Taiwanese, Hakka, and aboriginal languages. The Hoklo Taiwanese which is the predominant ethnic group I am classified as. My ancestors are several generations of Taiwanese who were born and raised in Taiwan even before 1949.
+#### Growing up in Taipei, the capital of Taiwan, the city is known for its night market and cuisine, in addition to being the heart of everything. The common languages are predominantly spoken in Mandarin and English, with a slight mixture of Taiwanese, Hakka, and aboriginal languages. The Hoklo Taiwanese which is the predominant ethnic group I am classified as. My ancestors are several generations of Taiwanese who were born and raised in Taiwan even before 1949.
 
 #### I learned writing, reading, and speaking in both Mandarin and English growing up although Mandarin is my native tongue that I've commonly spoken either at home or school. I embrace the environment at which nurtured me to become the person who I am today.
 
 ### Countries:earth_americas:I've been to: US:us:, South Korea:kr:, Philippines:philippines:, Japan:jp:, Malaysia:malaysia:, Singapore:singapore:, Australia:australia:, India:india:, Mainland China:cn:, Indonesia:indonesia:.
-
-

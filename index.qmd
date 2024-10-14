@@ -1,47 +1,46 @@
 ---
-title: "Jeffrey's Homepage"
+title: "Jeffrey Lin"
+from: markdown+emoji
 date: last-modified
 about:
-  template: marquee
-  image: index1.JPG
+  id: hero-heading
+  template: solana
+  image: IMG_7551.JPG
+  image-width: 20em
   links: 
     - icon: twitter-x
       href: https://x.com/J_LinEPI
     - icon: linkedin
       href: https://www.linkedin.com/in/jeffreylin24/
+    - icon: github
+      href: https://github.com/epijlin/jeffrey-website/
 lightbox: true
 ---
 
-<!-- 95% of this will be handled by Quarto for you -->
+::: {#hero-heading}
+Jeffrey Lin is a Recent Epidemiology Graduate from Emory University.
 
-<!-- <embed src="website-handout.pdf" type="application/pdf" width="100%" height="600px"> -->
+## Education
 
-## Making a Website using Quarto
+Emory University | Atlanta, GA<br>
+MPH in Epidemiology | August 2022 - May 2024
 
-<embed src="website-handout.pdf" type="application/pdf" width="100%" height="600px">
+Colorado State University | Fort Collins, CO<br>
+BSc. in Biological Science | August 2015 - May 2021
 
-## Photo Gallery
+## Experience
 
-::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
-![My Beloved Country - Taiwan](/images/TWMap.jpg){group="my-gallery"}
+J. Peter Cegielski, MD, MPH, Consulting, LLC | Atlanta, GA<br>Research Assistant | May 2024 - August 2024
 
-![2024 Taiwan New Year's Flag-Raising Ceremony](/images/IMG_0229.JPG){group="my-gallery"}
+The Carter Center | Atlanta, GA<br>Quantitative Analytics and Epidemiology Assistant | August 2023 - August 2024
 
-![2024 Taiwan 113th National Day's Banquet Atlanta](/images/IMG_2613.jpg){group="my-gallery"}
+Emory's Rollins School of Public Health | Atlanta, GA<br>Graduate Research Assistant | May 2023 - April 2024
 
-![Oceans Ballroom National Day's Banquet Atlanta](/images/IMG_2636.jpg){group="my-gallery"}
-
-![Banquet](/images/banquet.jpg){group="my-gallery"}
-
-![Viva Villa](/images/IMG_2485.jpg){group="my-gallery"}
-
-![Viva Villa](/images/IMG_2522.jpg){group="my-gallery"}
-
-![Viva Villa](/images/IMG_2560.jpg){group="my-gallery"}
+The Task Force for Global Health Inc. | Decatur, GA<br>Graduate Intern | October 2022 - May 2023
 :::
 
-#### Contact Me
 
+<!-- #### Contact Me -->
 <!-- Social Media Icons using css -->
 
 <!-- <div style="text-align: left;"> -->
@@ -68,6 +67,6 @@ lightbox: true
 
 <!-- Social Media Icons using Quarto with some HTML elements for styling -->
 
-::: text-left
-[![](https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg){width="30" height="30" marin-right="10"}](https://x.com/J_LinEPI){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){width="30" height="30" margin-right="10"}](https://www.linkedin.com/in/jeffreylin24/){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){width="30" height="30" margin-right="10"}](https://github.com/epijlin/jeffrey-website/){target="_blank" style="text-decoration: none;"}
-:::
+<!-- ::: text-left -->
+<!-- [![](https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg){width="30" height="30" marin-right="10"}](https://x.com/J_LinEPI){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){width="30" height="30" margin-right="10"}](https://www.linkedin.com/in/jeffreylin24/){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){width="30" height="30" margin-right="10"}](https://github.com/epijlin/jeffrey-website/){target="_blank" style="text-decoration: none;"} -->
+<!-- ::: -->
