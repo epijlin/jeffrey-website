@@ -18,15 +18,16 @@ lightbox: true
 ---
 
 ::: {#hero-heading}
-Jeffrey Lin is a Recent Epidemiology Graduate from Emory University.
+
 
 ## Education
 
-Emory University \| Atlanta, GA<br> MPH in Epidemiology \| August 2022 - May 2024
+Emory University \| Atlanta, GA<br> Master of Public Health (MPH) in Epidemiology \| August 2022 - May 2024
 
-Colorado State University \| Fort Collins, CO<br> BSc. in Biological Science \| August 2015 - May 2021
+Colorado State University \| Fort Collins, CO<br> Bachelor of Science (BS) in Biological Science, with a Minor in Chemistry \| August 2015 - May 2021
 
 ## Experience
+Emory's School of Medicine | Atlanta, GA<br>Research Specialist | October 2024 - Present
 
 Emory's Rollins School of Public Health | Atlanta, GA<br>Research Assistant | May 2024 - August 2024
 
