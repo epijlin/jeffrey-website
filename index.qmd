@@ -1,5 +1,5 @@
 ---
-title: "Jeffrey Lin"
+title: "Welcome to Jeffrey Lin's Homepage"
 from: markdown+emoji
 date: last-modified
 about:

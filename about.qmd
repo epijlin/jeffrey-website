@@ -16,8 +16,7 @@ Jeffrey's interest in epidemiology was sparked during my junior year of college,
 Jeffrey further honed his epidemiologic skills through a research project that examined the mental health experiences of college students, where he gained firsthand experience in data collection and analysis. As an international student studying Biology with a focus on infectious diseases and health determinants, He recognized the importance of additional epidemiological training in addressing complex health issues across populations. This academic journey solidified his commitment to pursuing epidemiology as a career.
 :::
 
-<embed src="Lin_JeffreyC_Resume.pdf" type="application/pdf" class="styled-pdf">
-
+<!-- <embed src="Lin_JeffreyC_Resume.pdf" type="application/pdf" class="styled-pdf"> -->
 
 ## Photo Gallery
 
