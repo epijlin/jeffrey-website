@@ -22,25 +22,23 @@ Jeffrey Lin is a Recent Epidemiology Graduate from Emory University.
 
 ## Education
 
-Emory University | Atlanta, GA<br>
-MPH in Epidemiology | August 2022 - May 2024
+Emory University \| Atlanta, GA<br> MPH in Epidemiology \| August 2022 - May 2024
 
-Colorado State University | Fort Collins, CO<br>
-BSc. in Biological Science | August 2015 - May 2021
+Colorado State University \| Fort Collins, CO<br> BSc. in Biological Science \| August 2015 - May 2021
 
 ## Experience
 
-J. Peter Cegielski, MD, MPH, Consulting, LLC | Atlanta, GA<br>Research Assistant | May 2024 - August 2024
+Emory's Rollins School of Public Health | Atlanta, GA<br>Research Assistant \| May 2024 - August 2024
 
-The Carter Center | Atlanta, GA<br>Quantitative Analytics and Epidemiology Assistant | August 2023 - August 2024
+The Carter Center \| Atlanta, GA<br>Quantitative Analytics and Epidemiology Assistant \| August 2023 - August 2024
 
-Emory's Rollins School of Public Health | Atlanta, GA<br>Graduate Research Assistant | May 2023 - April 2024
+Emory's Rollins School of Public Health \| Atlanta, GA<br>Graduate Research Assistant \| May 2023 - April 2024
 
-The Task Force for Global Health Inc. | Decatur, GA<br>Graduate Intern | October 2022 - May 2023
+The Task Force for Global Health Inc. \| Decatur, GA<br>Graduate Intern \| October 2022 - May 2023
 :::
 
-
 <!-- #### Contact Me -->
+
 <!-- Social Media Icons using css -->
 
 <!-- <div style="text-align: left;"> -->
@@ -68,5 +66,7 @@ The Task Force for Global Health Inc. | Decatur, GA<br>Graduate Intern | October
 <!-- Social Media Icons using Quarto with some HTML elements for styling -->
 
 <!-- ::: text-left -->
+
 <!-- [![](https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg){width="30" height="30" marin-right="10"}](https://x.com/J_LinEPI){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png){width="30" height="30" margin-right="10"}](https://www.linkedin.com/in/jeffreylin24/){target="_blank" style="text-decoration: none;"} [![](https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg){width="30" height="30" margin-right="10"}](https://github.com/epijlin/jeffrey-website/){target="_blank" style="text-decoration: none;"} -->
+
 <!-- ::: -->
